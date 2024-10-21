@@ -1,0 +1,10 @@
+__pycache__
+snippet.txt
+sample.txt
+utils.py
+azure-deploy.yml
+
+connect-plugins/*
+!connect-plugins/*.zip
+
+
